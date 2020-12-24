@@ -1,4 +1,4 @@
-# Nhom_4 (Thắng + Hoàng)
+# Nhom_4 (Tuấn + Văn Anh)
 
 ## Clone dữ liệu
 ```
