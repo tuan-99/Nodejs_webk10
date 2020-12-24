@@ -1,4 +1,4 @@
-# Nhom_2 (Hải Anh + Minh + Thủy)
+# Nhom_3 (Tuyên + Hiếu)
 
 ## Clone dữ liệu
 ```
